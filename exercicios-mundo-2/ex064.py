@@ -12,7 +12,7 @@ while num != 999:
         cont += 1
 print(f'Você digitou {cont} números e a soma entre eles foi {soma}')
 '''
-
+# Jeito 2 
 soma = cont = 0
 num  = int(input('Digite um número [999 para parar]: '))
 while num != 999:
